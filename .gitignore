@@ -1,0 +1,12 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/uploads/*
+*.pyc
+
+# 환경변수 (중요!)
+.env
+
+# Node
+frontend/node_modules/
+frontend/.next/
